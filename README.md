@@ -1,2 +1,2 @@
-# quietjeweler-blog
-My jewelry sourcing blog site
+# Quiet Jeweler Blog
+This is your SEO + meta ready Astro blog.
